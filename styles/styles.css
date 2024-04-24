@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #555555
+}
+li {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal
+}
+.bold {
+    font-weight: bold;
+    font-style: normal
+}
+
+.aboutbg {
+    background-image: url('../images/Beach_Background_2.jpg');
+    background-position: top left
+}
+
+.title {
+    font-size: 35px;
+    font-weight: bold;
+    color: green
+}
+
+.top {
+    color: maroon;
+    font-size: 18px
+}
